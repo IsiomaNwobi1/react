@@ -1,0 +1,34 @@
+.middle{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+    align-items: center;
+}
+
+.hero p{
+    color: black;
+}
+
+.bigimage{
+    width: 30%;
+}
+
+.assistance{
+    font-size: 60px;
+    width: 60%;
+    font-weight: 700;
+}
+
+.hi{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.assistance span{
+    color: #DC0155;
+}
+
+.text p{
+    font-size: 25px;
+    font-weight: 700;
+}

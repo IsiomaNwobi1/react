@@ -1,0 +1,16 @@
+.top{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details{
+    align-items: center;
+    list-style: none;
+    width: 30%;
+}
+
+.details div{
+    display: flex;
+    justify-content: space-between;
+}
